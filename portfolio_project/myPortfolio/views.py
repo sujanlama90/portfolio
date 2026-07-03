@@ -1,6 +1,9 @@
 from django.shortcuts import render, redirect
 from .models import *
 from django.contrib import messages
+from django.core.mail import send_mail
+from django.template.loader import render_to_string
+from django.conf import settings
 
 # Create your views here.
 
@@ -33,8 +36,24 @@ def contact(request):
         name = request.POST['name']
         email = request.POST['email']
         subject = request.POST['subject']
-        message = request.POST['message']
-        Contact.objects.create(name=name,email=email,subject=subject,message=message)
-        messages.success(request,f' Hi {name} your message is submited ')
+        message_text = request.POST['message']
+        
+        Contact.objects.create(name=name,email=email,subject=subject,message=message_text)
+        
+        email_subject = 'Thank you for connecting with us'
+        # Email body message.
+        email_body = render_to_string('myPortfolio/email_message.html', {
+            'name': name,
+            'subject': subject,
+            'user_message': message_text,
+        })
+        # Sender's email address.
+        from_email = settings.EMAIL_HOST_USER
+        # List of recipient email addresses.
+        recipient_list = [email]
+        # Send the email to the recipient.
+        send_mail(subject=email_subject, message=email_body, from_email=from_email, recipient_list=recipient_list, fail_silently=False)
+        
+        messages.success(request, f'Hi {name}, your message has been submitted.')
         return redirect('contact')
     return render(request,'myPortfolio/contact.html',{'contact':contact_info})
