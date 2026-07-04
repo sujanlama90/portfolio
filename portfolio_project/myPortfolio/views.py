@@ -4,6 +4,10 @@ from django.contrib import messages
 from django.core.mail import send_mail
 from django.template.loader import render_to_string
 from django.conf import settings
+import logging
+
+# module logger
+logger = logging.getLogger(__name__)
 
 # Create your views here.
 
@@ -39,6 +43,7 @@ def contact(request):
         message_text = request.POST['message']
         
         Contact.objects.create(name=name,email=email,subject=subject,message=message_text)
+        logger.info('Contact created: %s <%s> subject=%s', name, email, subject)
         
         email_subject = 'Thank you for connecting with us'
         # Email body message.

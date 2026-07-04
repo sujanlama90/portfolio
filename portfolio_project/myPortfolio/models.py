@@ -1,4 +1,8 @@
 from django.db import models
+import logging
+
+# module logger
+logger = logging.getLogger(__name__)
 
 # Create your models here.
 # models for contact
@@ -10,6 +14,10 @@ class Contact(models.Model):
     
     def __str__(self):
         return self.name
+    
+    def save(self, *args, **kwargs):
+        logger.debug('Saving Contact: %s <%s>', self.name, self.email)
+        super().save(*args, **kwargs)
     
 #models for project
 
