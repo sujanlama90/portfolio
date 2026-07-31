@@ -52,6 +52,7 @@ def contact(request):
             'subject': subject,
             'user_message': message_text,
         })
+        
         # Sender's email address.
         from_email = settings.EMAIL_HOST_USER
         # List of recipient email addresses.
