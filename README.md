@@ -140,6 +140,9 @@ If you have questions or suggestions, reach out:
 - Add unit and integration tests for views and forms
 - Add CI (GitHub Actions) for linting, testing and automated deploys
 
+## Image
+![img](https://github.com/sujanlama90/portfolio/blob/b0ff48313987cda98b55cfd7b21b66e16cc41c80/portfolio_project/myPortfolio/static/images/img3.png)
+
 ## License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
