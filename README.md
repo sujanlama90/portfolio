@@ -67,7 +67,7 @@ Adjust paths if you customize the app name or layout.
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sujanlama90/portfolio.git
 cd portfolio_project
 ```
 
@@ -131,18 +131,14 @@ Open http://127.0.0.1:8000/ in your browser.
 
 If you have questions or suggestions, reach out:
 
-- Email: replace-me@example.com
-- GitHub: https://github.com/your-username
-
-Replace the placeholders above with your preferred contact details.
+- Email: sujanlama2323@gmail.com
+- GitHub: https://github.com/sujanlama90
 
 ## Future Improvements
 
 - Add deployment instructions (Heroku / DigitalOcean / Vercel + WSGI/ASGI config)
 - Add unit and integration tests for views and forms
 - Add CI (GitHub Actions) for linting, testing and automated deploys
-- Use a production-ready database (PostgreSQL) and static/media storage (S3)
-- Integrate an email service for contact form submissions
 
 ## License
 
