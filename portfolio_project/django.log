@@ -2795,3 +2795,67 @@ INFO 2026-08-02 07:53:00,045 django.server "GET /contact/ HTTP/1.1" 200 9996
 INFO 2026-08-02 07:53:00,045 django.server "GET /contact/ HTTP/1.1" 200 9996
 INFO 2026-08-02 07:53:08,790 __main__ manage.py executed with args: ['manage.py', 'runserver']
 INFO 2026-08-02 07:53:08,920 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 08:04:47,061 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 08:04:47,061 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 08:04:57,546 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 08:04:57,546 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 08:04:57,809 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 08:04:57,809 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 08:05:12,918 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 08:05:12,918 django.server "GET / HTTP/1.1" 200 11044
+WARNING 2026-08-02 08:05:12,981 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 08:05:12,981 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 08:05:12,982 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+WARNING 2026-08-02 08:05:12,982 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+INFO 2026-08-02 08:05:18,503 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 08:05:18,503 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 08:05:18,521 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4080
+INFO 2026-08-02 08:05:18,521 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4080
+INFO 2026-08-02 08:05:28,455 django.server - Broken pipe from ('127.0.0.1', 49879)
+INFO 2026-08-02 08:05:28,455 django.server - Broken pipe from ('127.0.0.1', 49879)
+INFO 2026-08-02 08:05:31,744 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 08:05:31,744 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 08:05:34,140 django.server "GET /admin/ HTTP/1.1" 200 13993
+INFO 2026-08-02 08:05:34,140 django.server "GET /admin/ HTTP/1.1" 200 13993
+INFO 2026-08-02 08:05:41,047 django.server "GET /admin/myPortfolio/project/ HTTP/1.1" 200 12934
+INFO 2026-08-02 08:05:41,047 django.server "GET /admin/myPortfolio/project/ HTTP/1.1" 200 12934
+INFO 2026-08-02 08:05:43,111 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 08:05:43,111 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 08:05:49,408 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 200 16063
+INFO 2026-08-02 08:05:49,408 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 200 16063
+INFO 2026-08-02 08:05:51,551 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 08:05:51,551 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 08:06:10,952 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 200 16063
+INFO 2026-08-02 08:06:10,952 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 200 16063
+INFO 2026-08-02 08:06:24,124 django.server "POST /admin/myPortfolio/project/4/change/ HTTP/1.1" 302 0
+INFO 2026-08-02 08:06:24,124 django.server "POST /admin/myPortfolio/project/4/change/ HTTP/1.1" 302 0
+INFO 2026-08-02 08:06:27,064 django.server "GET /admin/myPortfolio/project/ HTTP/1.1" 200 13144
+INFO 2026-08-02 08:06:27,064 django.server "GET /admin/myPortfolio/project/ HTTP/1.1" 200 13144
+INFO 2026-08-02 08:06:29,246 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 08:06:29,246 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 08:06:29,265 django.server "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 558
+INFO 2026-08-02 08:06:29,265 django.server "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 558
+INFO 2026-08-02 08:07:07,062 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 200 16063
+INFO 2026-08-02 08:07:07,062 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 200 16063
+INFO 2026-08-02 08:07:09,147 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 08:07:09,147 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2026-08-02 08:07:09,180 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 08:07:09,180 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 08:07:09,181 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+WARNING 2026-08-02 08:07:09,181 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+INFO 2026-08-02 08:07:24,987 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 200 16063
+INFO 2026-08-02 08:07:24,987 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 200 16063
+INFO 2026-08-02 08:07:36,939 django.server "POST /admin/myPortfolio/project/4/change/ HTTP/1.1" 302 0
+INFO 2026-08-02 08:07:36,939 django.server "POST /admin/myPortfolio/project/4/change/ HTTP/1.1" 302 0
+INFO 2026-08-02 08:07:40,236 django.server "GET /admin/myPortfolio/project/ HTTP/1.1" 200 13144
+INFO 2026-08-02 08:07:40,236 django.server "GET /admin/myPortfolio/project/ HTTP/1.1" 200 13144
+INFO 2026-08-02 08:07:42,426 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 08:07:42,426 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 08:13:18,862 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 08:13:18,987 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 08:18:26,021 __main__ manage.py executed with args: ['manage.py', 'makemigrations']
+INFO 2026-08-02 08:18:35,025 __main__ manage.py executed with args: ['manage.py', 'migrate']
+INFO 2026-08-02 08:18:47,045 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 08:18:47,045 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 08:18:54,060 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 08:18:54,185 __main__ manage.py executed with args: ['manage.py', 'runserver']
