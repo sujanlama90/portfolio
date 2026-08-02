@@ -41,25 +41,52 @@ def contact(request):
         email = request.POST['email']
         subject = request.POST['subject']
         message_text = request.POST['message']
-        
-        Contact.objects.create(name=name,email=email,subject=subject,message=message_text)
+
+        Contact.objects.create(
+            name=name,
+            email=email,
+            subject=subject,
+            message=message_text
+        )
         logger.info('Contact created: %s <%s> subject=%s', name, email, subject)
-        
+
         email_subject = 'Thank you for connecting with us'
+
         # Email body message.
-        email_body = render_to_string('myPortfolio/email_message.html', {
-            'name': name,
-            'subject': subject,
-            'user_message': message_text,
-        })
-        
+        email_body = render_to_string(
+            'myPortfolio/email_message.html',
+            {
+                'name': name,
+                'subject': subject,
+                'user_message': message_text,
+            }
+        )
+
         # Sender's email address.
         from_email = settings.EMAIL_HOST_USER
+
         # List of recipient email addresses.
         recipient_list = [email]
+
         # Send the email to the recipient.
-        send_mail(subject=email_subject, message=email_body, from_email=from_email, recipient_list=recipient_list, fail_silently=False)
-        
+        try:
+            logger.info("Attempting to send email to %s", email)
+
+            send_mail(
+                subject=email_subject,
+                message=email_body,
+                from_email=from_email,
+                recipient_list=recipient_list,
+                fail_silently=False,
+            )
+
+            logger.info("Email sent successfully to %s", email)
+
+        except Exception as e:
+            logger.exception("Email sending failed: %s", str(e))
+            messages.error(request, "Your message was saved, but the confirmation email could not be sent.")
+
         messages.success(request, f'Hi {name}, your message has been submitted.')
         return redirect('contact')
-    return render(request,'myPortfolio/contact.html',{'contact':contact_info})
+
+    return render(request, 'myPortfolio/contact.html', {'contact': contact_info})

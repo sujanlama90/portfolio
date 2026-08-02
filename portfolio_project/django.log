@@ -2916,3 +2916,41 @@ INFO 2026-08-02 08:25:08,435 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 334
 INFO 2026-08-02 08:36:35,349 __main__ manage.py executed with args: ['manage.py', 'runserver']
 INFO 2026-08-02 08:36:35,479 __main__ manage.py executed with args: ['manage.py', 'runserver']
 INFO 2026-08-02 09:13:30,042 __main__ manage.py executed with args: ['manage.py', 'check']
+INFO 2026-08-02 09:17:43,847 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 09:17:43,847 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 09:20:03,606 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 09:20:03,727 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 09:37:59,246 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 09:37:59,246 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 09:38:03,207 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 09:38:03,207 django.server "GET / HTTP/1.1" 200 11044
+WARNING 2026-08-02 09:38:07,444 django.request Not Found: /apple-touch-icon.png
+WARNING 2026-08-02 09:38:07,447 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 09:38:07,444 django.request Not Found: /apple-touch-icon.png
+WARNING 2026-08-02 09:38:07,449 django.request Not Found: /apple-touch-icon-precomposed.png
+WARNING 2026-08-02 09:38:07,447 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 09:38:07,449 django.request Not Found: /apple-touch-icon-precomposed.png
+WARNING 2026-08-02 09:38:07,450 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+WARNING 2026-08-02 09:38:07,450 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+WARNING 2026-08-02 09:38:07,450 django.server "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 3718
+WARNING 2026-08-02 09:38:07,450 django.server "GET /apple-touch-icon.png HTTP/1.1" 404 3682
+WARNING 2026-08-02 09:38:07,450 django.server "GET /apple-touch-icon.png HTTP/1.1" 404 3682
+WARNING 2026-08-02 09:38:07,450 django.server "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 3718
+INFO 2026-08-02 09:38:12,247 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 09:38:12,247 django.server "GET / HTTP/1.1" 200 11044
+WARNING 2026-08-02 09:38:12,322 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 09:38:12,322 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 09:38:12,322 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+WARNING 2026-08-02 09:38:12,322 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+INFO 2026-08-02 09:38:16,559 django.server "GET /contact/ HTTP/1.1" 200 9996
+INFO 2026-08-02 09:38:16,559 django.server "GET /contact/ HTTP/1.1" 200 9996
+DEBUG 2026-08-02 09:38:29,872 myPortfolio.models Saving Contact: sujan lama <sujanlama2323@gmail.com>
+INFO 2026-08-02 09:38:30,154 myPortfolio.views Contact created: sujan lama <sujanlama2323@gmail.com> subject=django
+INFO 2026-08-02 09:38:30,157 myPortfolio.views Attempting to send email to sujanlama2323@gmail.com
+INFO 2026-08-02 09:38:34,734 myPortfolio.views Email sent successfully to sujanlama2323@gmail.com
+INFO 2026-08-02 09:38:34,736 django.server "POST /contact/ HTTP/1.1" 302 0
+INFO 2026-08-02 09:38:34,736 django.server "POST /contact/ HTTP/1.1" 302 0
+INFO 2026-08-02 09:38:36,564 django.server "GET /contact/ HTTP/1.1" 200 10177
+INFO 2026-08-02 09:38:36,564 django.server "GET /contact/ HTTP/1.1" 200 10177
+INFO 2026-08-02 09:40:53,802 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 09:40:53,875 __main__ manage.py executed with args: ['manage.py', 'runserver']
