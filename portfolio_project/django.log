@@ -1648,3 +1648,1150 @@ INFO 2026-08-01 16:50:16,931 django.server "GET / HTTP/1.1" 200 11044
 INFO 2026-08-01 16:50:16,931 django.server "GET / HTTP/1.1" 200 11044
 INFO 2026-08-01 16:50:26,513 __main__ manage.py executed with args: ['manage.py', 'runserver']
 INFO 2026-08-01 16:50:26,642 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 07:24:03,535 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:24:03,535 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:32:29,914 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:32:29,914 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:32:30,199 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:32:30,199 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:32:37,361 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:32:37,361 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:33:40,642 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:33:40,642 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:33:46,887 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 07:33:46,887 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 07:33:46,937 django.server "GET /static/images/img2.png HTTP/1.1" 304 0
+INFO 2026-08-02 07:33:46,937 django.server "GET /static/images/img2.png HTTP/1.1" 304 0
+INFO 2026-08-02 07:33:46,938 django.server "GET /static/images/img4.png HTTP/1.1" 304 0
+INFO 2026-08-02 07:33:46,938 django.server "GET /static/images/img4.png HTTP/1.1" 304 0
+INFO 2026-08-02 07:33:48,402 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 07:33:48,402 django.server "GET / HTTP/1.1" 200 11044
+WARNING 2026-08-02 07:33:51,375 django.request Not Found: /apple-touch-icon-precomposed.png
+WARNING 2026-08-02 07:33:51,379 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 07:33:51,382 django.request Not Found: /apple-touch-icon.png
+WARNING 2026-08-02 07:33:51,375 django.request Not Found: /apple-touch-icon-precomposed.png
+WARNING 2026-08-02 07:33:51,379 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 07:33:51,382 django.request Not Found: /apple-touch-icon.png
+WARNING 2026-08-02 07:33:51,382 django.server "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 3718
+WARNING 2026-08-02 07:33:51,382 django.server "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 3718
+WARNING 2026-08-02 07:33:51,382 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+WARNING 2026-08-02 07:33:51,383 django.server "GET /apple-touch-icon.png HTTP/1.1" 404 3682
+WARNING 2026-08-02 07:33:51,383 django.server "GET /apple-touch-icon.png HTTP/1.1" 404 3682
+WARNING 2026-08-02 07:33:51,382 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+INFO 2026-08-02 07:33:58,164 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 07:33:58,164 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 07:33:58,195 django.server "GET /static/css/style.css HTTP/1.1" 200 21347
+INFO 2026-08-02 07:33:58,195 django.server "GET /static/css/style.css HTTP/1.1" 200 21347
+INFO 2026-08-02 07:33:58,196 django.server "GET /static/js/script.js HTTP/1.1" 200 1784
+INFO 2026-08-02 07:33:58,196 django.server "GET /static/js/script.js HTTP/1.1" 200 1784
+INFO 2026-08-02 07:33:58,198 django.server "GET /static/images/img2.png HTTP/1.1" 200 271426
+INFO 2026-08-02 07:33:58,198 django.server "GET /static/images/img2.png HTTP/1.1" 200 271426
+INFO 2026-08-02 07:33:58,200 django.server "GET /static/images/img1.png HTTP/1.1" 200 1347891
+INFO 2026-08-02 07:33:58,200 django.server "GET /static/images/img1.png HTTP/1.1" 200 1347891
+INFO 2026-08-02 07:33:58,201 django.server "GET /static/images/img4.png HTTP/1.1" 200 1091071
+INFO 2026-08-02 07:33:58,201 django.server "GET /static/images/img4.png HTTP/1.1" 200 1091071
+WARNING 2026-08-02 07:33:58,441 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 07:33:58,441 django.request Not Found: /favicon.ico
+WARNING 2026-08-02 07:33:58,441 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+WARNING 2026-08-02 07:33:58,441 django.server "GET /favicon.ico HTTP/1.1" 404 3655
+INFO 2026-08-02 07:34:03,026 django.server "GET /about/ HTTP/1.1" 200 9718
+INFO 2026-08-02 07:34:03,026 django.server "GET /about/ HTTP/1.1" 200 9718
+INFO 2026-08-02 07:34:03,044 django.server "GET /static/images/profile.png HTTP/1.1" 200 1750261
+INFO 2026-08-02 07:34:03,044 django.server "GET /static/images/profile.png HTTP/1.1" 200 1750261
+INFO 2026-08-02 07:34:06,110 django.server - Broken pipe from ('127.0.0.1', 49650)
+INFO 2026-08-02 07:34:06,110 django.server - Broken pipe from ('127.0.0.1', 49650)
+INFO 2026-08-02 07:34:06,721 django.server "GET /project/ HTTP/1.1" 200 5890
+INFO 2026-08-02 07:34:06,721 django.server "GET /project/ HTTP/1.1" 200 5890
+INFO 2026-08-02 07:34:10,695 django.server "GET /contact/ HTTP/1.1" 200 9895
+INFO 2026-08-02 07:34:10,695 django.server "GET /contact/ HTTP/1.1" 200 9895
+INFO 2026-08-02 07:34:17,151 django.server "GET /skill/ HTTP/1.1" 200 5730
+INFO 2026-08-02 07:34:17,151 django.server "GET /skill/ HTTP/1.1" 200 5730
+INFO 2026-08-02 07:34:33,036 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 07:34:33,162 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 07:35:00,977 __main__ manage.py executed with args: ['manage.py', 'createsuperuser']
+INFO 2026-08-02 07:35:02,860 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:35:02,860 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:35:38,442 django.server "GET /admin HTTP/1.1" 301 0
+INFO 2026-08-02 07:35:38,442 django.server "GET /admin HTTP/1.1" 301 0
+INFO 2026-08-02 07:35:38,451 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:35:38,451 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:35:38,466 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4080
+INFO 2026-08-02 07:35:38,466 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4080
+INFO 2026-08-02 07:35:38,499 django.server "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2026-08-02 07:35:38,499 django.server "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/base.css HTTP/1.1" 200 23100
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3538
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3538
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/responsive.css HTTP/1.1" 200 16273
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/base.css HTTP/1.1" 200 23100
+INFO 2026-08-02 07:35:38,500 django.server "GET /static/admin/css/responsive.css HTTP/1.1" 200 16273
+INFO 2026-08-02 07:35:38,505 django.server "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2026-08-02 07:35:38,505 django.server "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2026-08-02 07:35:47,602 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:35:47,602 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:35:47,603 django.server - Broken pipe from ('127.0.0.1', 49676)
+INFO 2026-08-02 07:35:47,603 django.server - Broken pipe from ('127.0.0.1', 49676)
+INFO 2026-08-02 07:35:48,801 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:35:48,801 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:35:51,087 django.server "GET /admin/ HTTP/1.1" 200 10330
+INFO 2026-08-02 07:35:51,087 django.server "GET /admin/ HTTP/1.1" 200 10330
+INFO 2026-08-02 07:35:51,134 django.server "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2026-08-02 07:35:51,134 django.server "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2026-08-02 07:35:51,138 django.server "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 593
+INFO 2026-08-02 07:35:51,138 django.server "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 593
+INFO 2026-08-02 07:35:51,138 django.server "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 978
+INFO 2026-08-02 07:35:51,138 django.server "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 978
+INFO 2026-08-02 07:35:55,863 django.server "GET /admin/myPortfolio/education/add/ HTTP/1.1" 200 14051
+INFO 2026-08-02 07:35:55,863 django.server "GET /admin/myPortfolio/education/add/ HTTP/1.1" 200 14051
+INFO 2026-08-02 07:35:55,897 django.server "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2026-08-02 07:35:55,897 django.server "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2026-08-02 07:35:55,898 django.server "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2026-08-02 07:35:55,898 django.server "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2026-08-02 07:35:55,899 django.server "GET /static/admin/css/forms.css HTTP/1.1" 200 8831
+INFO 2026-08-02 07:35:55,899 django.server "GET /static/admin/css/forms.css HTTP/1.1" 200 8831
+INFO 2026-08-02 07:35:55,899 django.server "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+INFO 2026-08-02 07:35:55,899 django.server "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+INFO 2026-08-02 07:35:55,901 django.server "GET /static/admin/js/actions.js HTTP/1.1" 200 8077
+INFO 2026-08-02 07:35:55,901 django.server "GET /static/admin/js/actions.js HTTP/1.1" 200 8077
+INFO 2026-08-02 07:35:55,901 django.server "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2026-08-02 07:35:55,902 django.server "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2026-08-02 07:35:55,902 django.server "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2026-08-02 07:35:55,901 django.server "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2026-08-02 07:35:55,903 django.server "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2026-08-02 07:35:55,903 django.server "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2026-08-02 07:35:55,903 django.server "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2026-08-02 07:35:55,903 django.server "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2026-08-02 07:35:55,904 django.server "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2026-08-02 07:35:55,904 django.server "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2026-08-02 07:35:55,912 django.server "GET /static/admin/css/widgets.css HTTP/1.1" 200 11811
+INFO 2026-08-02 07:35:55,912 django.server "GET /static/admin/css/widgets.css HTTP/1.1" 200 11811
+INFO 2026-08-02 07:35:55,914 django.server "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2026-08-02 07:35:55,914 django.server "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2026-08-02 07:35:57,980 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 07:35:57,980 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 07:47:25,781 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 07:47:25,781 django.server "GET / HTTP/1.1" 200 11044
+ERROR 2026-08-02 07:47:33,159 django.request Internal Server Error: /project/
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 26, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 29, in __getitem__
+    params = self.backends[alias]
+             ~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/sujan/Desktop/portfolio/portfolio_project/myPortfolio/views.py", line 35, in project
+    return render(request,'myPortfolio/projects.html',{'data':data})
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1150, in render
+    output = self.filter_expression.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 788, in resolve
+    obj = self.var.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 928, in resolve
+    value = self._resolve_lookup(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/db/models/fields/files.py", line 69, in url
+    return self.storage.url(self.name)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/utils/functional.py", line 251, in inner
+    self._setup()
+    ~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/__init__.py", line 23, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 31, in __getitem__
+    raise InvalidStorageError(
+        f"Could not find config for '{alias}' in settings.STORAGES."
+    )
+django.core.files.storage.handler.InvalidStorageError: Could not find config for 'default' in settings.STORAGES.
+ERROR 2026-08-02 07:47:33,159 django.request Internal Server Error: /project/
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 26, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 29, in __getitem__
+    params = self.backends[alias]
+             ~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/sujan/Desktop/portfolio/portfolio_project/myPortfolio/views.py", line 35, in project
+    return render(request,'myPortfolio/projects.html',{'data':data})
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1150, in render
+    output = self.filter_expression.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 788, in resolve
+    obj = self.var.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 928, in resolve
+    value = self._resolve_lookup(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/db/models/fields/files.py", line 69, in url
+    return self.storage.url(self.name)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/utils/functional.py", line 251, in inner
+    self._setup()
+    ~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/__init__.py", line 23, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 31, in __getitem__
+    raise InvalidStorageError(
+        f"Could not find config for '{alias}' in settings.STORAGES."
+    )
+django.core.files.storage.handler.InvalidStorageError: Could not find config for 'default' in settings.STORAGES.
+ERROR 2026-08-02 07:47:33,163 django.server "GET /project/ HTTP/1.1" 500 191914
+ERROR 2026-08-02 07:47:33,163 django.server "GET /project/ HTTP/1.1" 500 191914
+INFO 2026-08-02 07:47:33,164 django.server - Broken pipe from ('127.0.0.1', 49777)
+INFO 2026-08-02 07:47:33,164 django.server - Broken pipe from ('127.0.0.1', 49777)
+ERROR 2026-08-02 07:47:34,025 django.request Internal Server Error: /project/
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 26, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 29, in __getitem__
+    params = self.backends[alias]
+             ~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/sujan/Desktop/portfolio/portfolio_project/myPortfolio/views.py", line 35, in project
+    return render(request,'myPortfolio/projects.html',{'data':data})
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1150, in render
+    output = self.filter_expression.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 788, in resolve
+    obj = self.var.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 928, in resolve
+    value = self._resolve_lookup(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/db/models/fields/files.py", line 69, in url
+    return self.storage.url(self.name)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/utils/functional.py", line 251, in inner
+    self._setup()
+    ~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/__init__.py", line 23, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 31, in __getitem__
+    raise InvalidStorageError(
+        f"Could not find config for '{alias}' in settings.STORAGES."
+    )
+django.core.files.storage.handler.InvalidStorageError: Could not find config for 'default' in settings.STORAGES.
+ERROR 2026-08-02 07:47:34,025 django.request Internal Server Error: /project/
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 26, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 29, in __getitem__
+    params = self.backends[alias]
+             ~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/sujan/Desktop/portfolio/portfolio_project/myPortfolio/views.py", line 35, in project
+    return render(request,'myPortfolio/projects.html',{'data':data})
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1150, in render
+    output = self.filter_expression.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 788, in resolve
+    obj = self.var.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 928, in resolve
+    value = self._resolve_lookup(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/db/models/fields/files.py", line 69, in url
+    return self.storage.url(self.name)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/utils/functional.py", line 251, in inner
+    self._setup()
+    ~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/__init__.py", line 23, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 31, in __getitem__
+    raise InvalidStorageError(
+        f"Could not find config for '{alias}' in settings.STORAGES."
+    )
+django.core.files.storage.handler.InvalidStorageError: Could not find config for 'default' in settings.STORAGES.
+ERROR 2026-08-02 07:47:34,028 django.server "GET /project/ HTTP/1.1" 500 191914
+ERROR 2026-08-02 07:47:34,028 django.server "GET /project/ HTTP/1.1" 500 191914
+INFO 2026-08-02 07:47:34,028 django.server - Broken pipe from ('127.0.0.1', 49779)
+INFO 2026-08-02 07:47:34,028 django.server - Broken pipe from ('127.0.0.1', 49779)
+INFO 2026-08-02 07:47:35,145 django.server "GET /contact/ HTTP/1.1" 200 9996
+INFO 2026-08-02 07:47:35,145 django.server "GET /contact/ HTTP/1.1" 200 9996
+INFO 2026-08-02 07:47:35,146 django.server - Broken pipe from ('127.0.0.1', 49781)
+INFO 2026-08-02 07:47:35,146 django.server - Broken pipe from ('127.0.0.1', 49781)
+ERROR 2026-08-02 07:47:36,364 django.request Internal Server Error: /project/
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 26, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 29, in __getitem__
+    params = self.backends[alias]
+             ~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/sujan/Desktop/portfolio/portfolio_project/myPortfolio/views.py", line 35, in project
+    return render(request,'myPortfolio/projects.html',{'data':data})
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1150, in render
+    output = self.filter_expression.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 788, in resolve
+    obj = self.var.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 928, in resolve
+    value = self._resolve_lookup(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/db/models/fields/files.py", line 69, in url
+    return self.storage.url(self.name)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/utils/functional.py", line 251, in inner
+    self._setup()
+    ~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/__init__.py", line 23, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 31, in __getitem__
+    raise InvalidStorageError(
+        f"Could not find config for '{alias}' in settings.STORAGES."
+    )
+django.core.files.storage.handler.InvalidStorageError: Could not find config for 'default' in settings.STORAGES.
+ERROR 2026-08-02 07:47:36,364 django.request Internal Server Error: /project/
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 964, in _resolve_lookup
+    raise TypeError
+TypeError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 26, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 29, in __getitem__
+    params = self.backends[alias]
+             ~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/sujan/Desktop/portfolio/portfolio_project/myPortfolio/views.py", line 35, in project
+    return render(request,'myPortfolio/projects.html',{'data':data})
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1150, in render
+    output = self.filter_expression.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 788, in resolve
+    obj = self.var.resolve(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 928, in resolve
+    value = self._resolve_lookup(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 976, in _resolve_lookup
+    current = getattr(current, bit)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/db/models/fields/files.py", line 69, in url
+    return self.storage.url(self.name)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/utils/functional.py", line 251, in inner
+    self._setup()
+    ~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/__init__.py", line 23, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 31, in __getitem__
+    raise InvalidStorageError(
+        f"Could not find config for '{alias}' in settings.STORAGES."
+    )
+django.core.files.storage.handler.InvalidStorageError: Could not find config for 'default' in settings.STORAGES.
+ERROR 2026-08-02 07:47:36,367 django.server "GET /project/ HTTP/1.1" 500 191914
+ERROR 2026-08-02 07:47:36,367 django.server "GET /project/ HTTP/1.1" 500 191914
+INFO 2026-08-02 07:47:45,639 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:47:45,639 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:47:45,647 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4080
+INFO 2026-08-02 07:47:45,647 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4080
+INFO 2026-08-02 07:47:55,587 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:47:55,587 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-08-02 07:47:57,948 django.server "GET /admin/ HTTP/1.1" 200 13993
+INFO 2026-08-02 07:47:57,948 django.server "GET /admin/ HTTP/1.1" 200 13993
+INFO 2026-08-02 07:48:04,215 django.server "GET /admin/myPortfolio/project/ HTTP/1.1" 200 12934
+INFO 2026-08-02 07:48:04,215 django.server "GET /admin/myPortfolio/project/ HTTP/1.1" 200 12934
+INFO 2026-08-02 07:48:04,248 django.server "GET /static/admin/css/changelists.css HTTP/1.1" 200 7498
+INFO 2026-08-02 07:48:04,248 django.server "GET /static/admin/css/changelists.css HTTP/1.1" 200 7498
+INFO 2026-08-02 07:48:04,262 django.server "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2026-08-02 07:48:04,262 django.server "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2026-08-02 07:48:06,279 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 07:48:06,279 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-08-02 07:48:06,300 django.server "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 593
+INFO 2026-08-02 07:48:06,300 django.server "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 593
+ERROR 2026-08-02 07:48:22,290 django.request Internal Server Error: /admin/myPortfolio/project/4/change/
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 26, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 29, in __getitem__
+    params = self.backends[alias]
+             ~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 221, in _get_response
+    response = response.render()
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 211, in render
+    return template.render(context)
+           ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 176, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 333, in render
+    return nodelist.render(context)
+           ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 333, in render
+    return nodelist.render(context)
+           ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1156, in render
+    return render_value_in_context(output, context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1133, in render_value_in_context
+    value = str(value)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/utils.py", line 79, in __str__
+    return self.as_widget()
+           ~~~~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/boundfield.py", line 108, in as_widget
+    return widget.render(
+           ~~~~~~~~~~~~~^
+        name=self.html_initial_name if only_initial else self.html_name,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        renderer=self.form.renderer,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 330, in render
+    context = self.get_context(name, value, attrs)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 562, in get_context
+    context = super().get_context(name, value, attrs)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 383, in get_context
+    context = super().get_context(name, value, attrs)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 322, in get_context
+    "value": self.format_value(value),
+             ~~~~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 558, in format_value
+    if self.is_initial(value):
+       ~~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 552, in is_initial
+    return bool(value and getattr(value, "url", False))
+                          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/db/models/fields/files.py", line 69, in url
+    return self.storage.url(self.name)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/utils/functional.py", line 251, in inner
+    self._setup()
+    ~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/__init__.py", line 23, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 31, in __getitem__
+    raise InvalidStorageError(
+        f"Could not find config for '{alias}' in settings.STORAGES."
+    )
+django.core.files.storage.handler.InvalidStorageError: Could not find config for 'default' in settings.STORAGES.
+ERROR 2026-08-02 07:48:22,290 django.request Internal Server Error: /admin/myPortfolio/project/4/change/
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 26, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 29, in __getitem__
+    params = self.backends[alias]
+             ~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 221, in _get_response
+    response = response.render()
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/backends/django.py", line 107, in render
+    return self.template.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 174, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 160, in render
+    return compiled_parent._render(context)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 66, in render
+    result = block.nodelist.render(context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/loader_tags.py", line 211, in render
+    return template.render(context)
+           ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 176, in render
+    return self._render(context)
+           ~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 166, in _render
+    return self.nodelist.render(context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 249, in render
+    nodelist.append(node.render_annotated(context))
+                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 333, in render
+    return nodelist.render(context)
+           ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/defaulttags.py", line 333, in render
+    return nodelist.render(context)
+           ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1091, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1052, in render_annotated
+    return self.render(context)
+           ~~~~~~~~~~~^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1156, in render
+    return render_value_in_context(output, context)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/template/base.py", line 1133, in render_value_in_context
+    value = str(value)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/utils.py", line 79, in __str__
+    return self.as_widget()
+           ~~~~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/boundfield.py", line 108, in as_widget
+    return widget.render(
+           ~~~~~~~~~~~~~^
+        name=self.html_initial_name if only_initial else self.html_name,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        renderer=self.form.renderer,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 330, in render
+    context = self.get_context(name, value, attrs)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 562, in get_context
+    context = super().get_context(name, value, attrs)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 383, in get_context
+    context = super().get_context(name, value, attrs)
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 322, in get_context
+    "value": self.format_value(value),
+             ~~~~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 558, in format_value
+    if self.is_initial(value):
+       ~~~~~~~~~~~~~~~^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/forms/widgets.py", line 552, in is_initial
+    return bool(value and getattr(value, "url", False))
+                          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/db/models/fields/files.py", line 69, in url
+    return self.storage.url(self.name)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/utils/functional.py", line 251, in inner
+    self._setup()
+    ~~~~~~~~~~~^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/__init__.py", line 23, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sujan/Desktop/portfolio/venv/lib/python3.14/site-packages/django/core/files/storage/handler.py", line 31, in __getitem__
+    raise InvalidStorageError(
+        f"Could not find config for '{alias}' in settings.STORAGES."
+    )
+django.core.files.storage.handler.InvalidStorageError: Could not find config for 'default' in settings.STORAGES.
+ERROR 2026-08-02 07:48:22,295 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 500 573190
+ERROR 2026-08-02 07:48:22,295 django.server "GET /admin/myPortfolio/project/4/change/ HTTP/1.1" 500 573190
+INFO 2026-08-02 07:51:26,884 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:51:26,884 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:51:27,217 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:51:27,217 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:51:30,354 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:51:30,354 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:51:30,538 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:51:30,538 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:51:35,703 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:51:35,703 django.utils.autoreload /Users/sujan/Desktop/portfolio/portfolio_project/portfolio_project/settings.py changed, reloading.
+INFO 2026-08-02 07:51:35,895 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:51:35,895 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:52:34,193 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 07:52:34,319 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 07:52:37,553 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:52:37,553 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-08-02 07:52:50,153 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 07:52:50,153 django.server "GET / HTTP/1.1" 200 11044
+INFO 2026-08-02 07:52:53,889 django.server "GET /project/ HTTP/1.1" 200 15111
+INFO 2026-08-02 07:52:53,889 django.server "GET /project/ HTTP/1.1" 200 15111
+INFO 2026-08-02 07:52:53,932 django.server "GET /media/project_Image/Screenshot_2026-07-31_at_11.37.51PM.png HTTP/1.1" 200 271426
+INFO 2026-08-02 07:52:53,932 django.server "GET /media/project_Image/Screenshot_2026-07-31_at_11.37.51PM.png HTTP/1.1" 200 271426
+INFO 2026-08-02 07:52:53,936 django.server "GET /media/project_Image/Screenshot_2026-07-31_at_11.46.59PM.png HTTP/1.1" 200 733069
+INFO 2026-08-02 07:52:53,936 django.server "GET /media/project_Image/Screenshot_2026-07-31_at_11.46.59PM.png HTTP/1.1" 200 733069
+INFO 2026-08-02 07:52:53,937 django.server "GET /media/project_Image/weather.png HTTP/1.1" 200 1091071
+INFO 2026-08-02 07:52:53,937 django.server "GET /media/project_Image/weather.png HTTP/1.1" 200 1091071
+INFO 2026-08-02 07:52:53,938 django.server "GET /media/project_Image/Screenshot_2026-07-31_at_11.21.12PM.png HTTP/1.1" 200 1347891
+INFO 2026-08-02 07:52:53,938 django.server "GET /media/project_Image/Screenshot_2026-07-31_at_11.21.12PM.png HTTP/1.1" 200 1347891
+INFO 2026-08-02 07:53:00,045 django.server "GET /contact/ HTTP/1.1" 200 9996
+INFO 2026-08-02 07:53:00,045 django.server "GET /contact/ HTTP/1.1" 200 9996
+INFO 2026-08-02 07:53:08,790 __main__ manage.py executed with args: ['manage.py', 'runserver']
+INFO 2026-08-02 07:53:08,920 __main__ manage.py executed with args: ['manage.py', 'runserver']
